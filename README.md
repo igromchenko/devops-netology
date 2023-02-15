@@ -1,2 +1,2 @@
 # devops-netology
-Тестовый репозиторий в рамках домашнего задания к занятию «Системы контроля версий»
+Test repository for homework "Vercion Control Systems"
